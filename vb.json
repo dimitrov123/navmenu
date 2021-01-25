@@ -1,0 +1,24 @@
+{
+  "name": "navmenu",
+  "version": "1.0.0",
+  "dependencies": {
+  }
+}
+[
+  {
+    "title": "home",
+    "url": "/"
+  },
+  {
+    "title": "producten",
+    "url": "/producten/"
+  },
+  {
+    "title": "Over ons",
+    "url": "/overons/"
+  },
+  {
+    "title": "contact",
+    "url": "/contact/"
+  }
+]
